@@ -10,42 +10,38 @@ I am ready to face any challenges that might be foolish enough to face me.
 
 # Work Experience
 
-## Schrute Farms (Scranton, PA)
+## [Shrute Farms](https://theoffice.fandom.com/wiki/Schrute_Farms?so=search) (Scranton, PA)
 
-* A charming beet farm with a bed and breakfast.*
+*A charming beet farm with a bed and breakfast.*
 
-** Farmer ** (Birth to Present)
+**Farmer** (Birth to Present)
 
 Planted and harvested beets
 
 **Owner** (2005 to Present)
 
-- Planned and hosted a **formal garden party**.
+- Planned and hosted a formal garden party.
 
-## Staples (Wilkes-Barre, PA)
+## [Staples](https://theoffice.fandom.com/wiki/Staples) (Wilkes-Barre, PA)
 *Big-box office and paper supplier that is inferior to Dunder Mifflin*
 
-** Salesman** (2006)
+**Salesman** (2006)
 
 Aided customers and restocked shelves
 
-- **Sold eight printers** over the course of only three days
+- Sold eight printers over the course of only three days
 - Successfully **infiltrated a competitor** and **tactically acquired sales leads** 
 
-## Dunder Mifflin (Scranton, PA)
-*Office and paper supply distributor* 
+## [Dunder Mifflin](https://theoffice.fandom.com/wiki/Dunder_Mifflin_Scranton) (Scranton, PA)
+*Paper and office supply distributor* 
 
-** Assistant to the Regional Manager (Salesman)**  (2005-2013)
+**Assistant to the Regional Manager (Salesman)**  (2005-2013)
 Sold paper
 
-- Earned *Top Salesman* for eight years
-- Individually *outsold* Dunder Mifflin's online orders
+- Earned **Top Salesman** for eight years
+- Individually outsold Dunder Mifflin's online orders
 
 ** Chief of Building Security ** (2005-2013)
-
-Shrute Farms: https://theoffice.fandom.com/wiki/Schrute_Farms?so=search
-Staples: https://theoffice.fandom.com/wiki/Staples
-Dunder Mifflin: https://theoffice.fandom.com/wiki/Dunder_Mifflin_Scranton
 
 # Special Skills
 - Surveillance
