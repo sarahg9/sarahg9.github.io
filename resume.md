@@ -16,11 +16,11 @@ I am ready to face any challenges that might be foolish enough to face me.
 
 **Farmer** (Birth to Present)
 
-Planted and harvested beets
+Plant and harvest beets
 
 **Owner** (2005 to Present)
 
-- Planned and hosted a formal garden party.
+Host formal garden parties and operate B&B
 
 ## [Staples](https://theoffice.fandom.com/wiki/Staples) (Wilkes-Barre, PA)
 *Big-box office and paper supplier that is inferior to Dunder Mifflin*
@@ -35,13 +35,14 @@ Aided customers and restocked shelves
 ## [Dunder Mifflin](https://theoffice.fandom.com/wiki/Dunder_Mifflin_Scranton) (Scranton, PA)
 *Paper and office supply distributor* 
 
-**Assistant to the Regional Manager (Salesman)**  (2005-2013)
+**Assistant to the Regional Manager/Salesman**  (2005-2013)
+
 Sold paper
 
 - Earned **Top Salesman** for eight years
 - Individually outsold Dunder Mifflin's online orders
 
-** Chief of Building Security ** (2005-2013)
+**Chief of Building Security** (2005-2013)
 
 # Special Skills
 - Surveillance
