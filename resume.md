@@ -4,6 +4,8 @@ dwight.k.schrute@dundermifflin.com
 
 http://www.linkedin.com/in/dwightschrute
 
+![Dwight Schrute](https://en.wikipedia.org/wiki/Dwight_Schrute#/media/File:Dwight_Schrute.jpg)
+
 # Summary
 
 I am ready to face any challenges that might be foolish enough to face me.
@@ -21,6 +23,8 @@ Plant and harvest beets
 **Owner** (2005 to Present)
 
 Host formal garden parties and operate B&B
+
+![A successful garden party](https://www.imdb.com/title/tt2072796/mediaviewer/rm3441341441/?ref_=ext_shr_lnk)
 
 ## [Staples](https://theoffice.fandom.com/wiki/Staples) (Wilkes-Barre, PA)
 *Big-box office and paper supplier that is inferior to Dunder Mifflin*
@@ -44,8 +48,12 @@ Sold paper
 
 **Chief of Building Security** (2005-2013)
 
+Ran emergency drills and issued ID cards
+
 # Special Skills
-- Surveillance
 - Playing recorder
+- Martial Arts
+- Surveillance
 - German and Dothraki
-- Speed (to give a reference point, I am somewhere between a snake and a mongoose and a panther)
+- Speed
+  - >To give you a reference point, I am somewhere between a snake and a mongoose. And a panther.
