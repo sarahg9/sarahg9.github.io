@@ -12,9 +12,9 @@ https://theoffice.fandom.com/wiki/Dwight_Schrute
 
 # Work Experience
 
-## [Shrute Farms](https://theoffice.fandom.com/wiki/Schrute_Farms?so=search) (Scranton, PA)
+## [Schrute Farms](https://theoffice.fandom.com/wiki/Schrute_Farms?so=search) (Scranton, PA)
 
-*A charming beet farm with a bed and breakfast.*
+*A charming beet farm with a bed and breakfast*
 
 **Farmer** (Birth to Present)
 
@@ -25,6 +25,8 @@ Plant and harvest beets
 Host formal garden parties and operate B&B
 
 ![A successful garden party](https://m.media-amazon.com/images/M/MV5BMTBjMzhjNDQtOWVhZC00YjY0LWJiMjItZGI0MDVmNDIyMmY5XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg)
+<p align="center">
+  One of our successful garden parties
 
 ## [Staples](https://theoffice.fandom.com/wiki/Staples) (Wilkes-Barre, PA)
 *Big-box office and paper supplier that is inferior to Dunder Mifflin*
