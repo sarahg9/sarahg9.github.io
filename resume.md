@@ -4,7 +4,7 @@ dwight.k.schrute@dundermifflin.com
 
 http://www.linkedin.com/in/dwightschrute
 
-![Dwight Schrute](https://www.imdb.com/title/tt2072796/mediaviewer/rm3441341441?ref_=ttmi_mi_all_sf_8)
+![Dwight Schrute](https://upload.wikimedia.org/wikipedia/en/c/cd/Dwight_Schrute.jpg)
 
 # Summary
 
