@@ -2,13 +2,13 @@
 
 dwight.k.schrute@dundermifflin.com
 
-http://www.linkedin.com/in/dwightschrute
+https://theoffice.fandom.com/wiki/Dwight_Schrute
 
 ![Dwight Schrute](https://upload.wikimedia.org/wikipedia/en/c/cd/Dwight_Schrute.jpg)
 
 # Summary
 
-I am ready to face any challenges that might be foolish enough to face me.
+>I am ready to face any challenges that might be foolish enough to face me.
 
 # Work Experience
 
@@ -24,7 +24,7 @@ Plant and harvest beets
 
 Host formal garden parties and operate B&B
 
-![A successful garden party](https://www.imdb.com/title/tt2072796/mediaviewer/rm3441341441/?ref_=ext_shr_lnk)
+![A successful garden party](https://m.media-amazon.com/images/M/MV5BMTBjMzhjNDQtOWVhZC00YjY0LWJiMjItZGI0MDVmNDIyMmY5XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg)
 
 ## [Staples](https://theoffice.fandom.com/wiki/Staples) (Wilkes-Barre, PA)
 *Big-box office and paper supplier that is inferior to Dunder Mifflin*
@@ -50,10 +50,18 @@ Sold paper
 
 Ran emergency drills and issued ID cards
 
+## Lackawanna County Sheriff's Office, Scranton, PA 
+
+**Volunteer Sheriff's Deputy** (2005-2006)
+
+> [I did not become a Lackawanna County volunteer sheriff's deputy to make friends. And by the way, I haven't.](https://www.imdb.com/title/tt0795874/characters/nm0933988)
+
 # Special Skills
 - Playing recorder
 - Martial Arts
 - Surveillance
-- German and Dothraki
+- Proficient in German and Dothraki
+- Brain Power
+  - >[Through concentration, I can raise and lower my cholesterol at will.](https://www.imdb.com/title/tt0664517/characters/nm0278979)
 - Speed
-  - >To give you a reference point, I am somewhere between a snake and a mongoose. And a panther.
+  - >[To give you a reference point, I'm somewhere between a snake and a mongoose. And a panther.](https://theoffice.fandom.com/wiki/The_Merger_Quotes)
