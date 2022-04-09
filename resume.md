@@ -2,7 +2,7 @@
 
 dwight.k.schrute@dundermifflin.com
 
-https://theoffice.fandom.com/wiki/Dwight_Schrute
+[theoffice.fandom.com/wiki/Dwight_Schrute](https://theoffice.fandom.com/wiki/Dwight_Schrute)
 
 ![Dwight Schrute](https://upload.wikimedia.org/wikipedia/en/c/cd/Dwight_Schrute.jpg)
 
