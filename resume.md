@@ -26,7 +26,7 @@ Host formal garden parties and operate B&B
 
 ![A successful garden party](https://m.media-amazon.com/images/M/MV5BMTBjMzhjNDQtOWVhZC00YjY0LWJiMjItZGI0MDVmNDIyMmY5XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg)
 <p align="center">
-  ###### One of our successful garden parties
+  One of our successful garden parties
 
 ## [Staples](https://theoffice.fandom.com/wiki/Staples) (Wilkes-Barre, PA)
 *Big-box office and paper supplier that is inferior to Dunder Mifflin*
